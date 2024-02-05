@@ -49,8 +49,6 @@ buttons.addEventListener("click", (event) => {
       isFirstInput = true;
       break;
 
-  //   default:
-  //  display.innerText += value;
   default:
       if (isFirstInput) {
         display.innerText = value;

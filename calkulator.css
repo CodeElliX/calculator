@@ -11,6 +11,11 @@ body{
     border-radius: 10px;
     padding-top: 30px;
 }
+.display{
+    overflow: hidden;
+    white-space: nowrap; 
+    max-height: 32px;
+}
 .entry-field{
     background-color: #fcfbfa;
     padding: 20px;
